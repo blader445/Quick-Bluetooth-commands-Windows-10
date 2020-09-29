@@ -2,7 +2,7 @@
 Speed up your workflow using Bluetooth on Windows with these 2 scripts. 
 
 
--Requirements :
+- Requirements :
 
 - Install Python /!\ (tested on 3.8.5)
   - This scripts use Python and a module called mouse. 
@@ -12,7 +12,7 @@ Speed up your workflow using Bluetooth on Windows with these 2 scripts.
 
 
 
--Quick start :
+- Quick start :
 
   1. Start by using these two commands :
 
