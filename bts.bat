@@ -1,0 +1,1 @@
+@py.exe E:\10_Code\Python\MyScripts\bts.py %*
