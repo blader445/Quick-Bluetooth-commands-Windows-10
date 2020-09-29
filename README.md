@@ -1,12 +1,13 @@
 # Quick-Bluetooth-commands-Windows-10
 Speed up your workflow using Bluetooth on Windows with these 2 scripts. 
 
+Quick start :
 
 1. Start by using these two commands :
 
-In Git Bash : $ git clone https://github.com/blader445/Quick-Bluetooth-commands-Windows-10.git
+- In Git Bash : $ git clone https://github.com/blader445/Quick-Bluetooth-commands-Windows-10.git
 
-In Powershell or whatever therminal you use in your IDE : pip install mouse
+- In Powershell or whatever therminal you use in your IDE : pip install mouse
 
 2. Add the folder that has been created to your PATH in system variables.
 
@@ -14,6 +15,8 @@ In Powershell or whatever therminal you use in your IDE : pip install mouse
    Or type "btr" to receive a file via Bluetooth
    
 4. Enjoy 😉
+
+Requirements :
 
 - Install Python /!\ (tested on 3.8.5)
   This scripts use Python and a module called mouse. 
