@@ -10,13 +10,15 @@ Requirements :
 
 - It should work on every full HD screen with windows 10 and the taskbar that don't hide automatically.
 
+
+
 Quick start :
 
 1. Start by using these two commands :
 
-- In Git Bash : $ git clone https://github.com/blader445/Quick-Bluetooth-commands-Windows-10.git
+  - In Git Bash : $ git clone https://github.com/blader445/Quick-Bluetooth-commands-Windows-10.git
 
-- In Powershell or whatever therminal you use in your IDE : pip install mouse
+  - In Powershell or whatever therminal you use in your IDE : pip install mouse
 
 2. Add the folder that has been created to your PATH in system variables.
 
